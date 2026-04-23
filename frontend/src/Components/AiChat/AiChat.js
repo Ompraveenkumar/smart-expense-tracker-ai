@@ -16,7 +16,7 @@ function AiChat() {
         setAdvice('');
         setLoading(true);
         try {
-            const response = await axios.post('http://localhost:5000/api/v1/get-ai-advice', {
+            const response = await axios.post('https://smart-expense-tracker-backend-f5c0.onrender.com/api/v1/get-ai-advice', {
                 totalIncome: totalIncome(),
                 totalExpense: totalExpenses(),
                 balance: totalBalance(),
