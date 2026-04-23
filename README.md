@@ -8,9 +8,8 @@ A sophisticated financial management ecosystem that transforms static transactio
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](./dashboard.png)
-*A high-level view of financial health with dynamic Chart.js integration.*
+## 🚀 Live Demo
+Direct Link: **[View Live Project](https://smart-expense-tracker-ai-frontend.onrender.com)**
 
 ---
 
